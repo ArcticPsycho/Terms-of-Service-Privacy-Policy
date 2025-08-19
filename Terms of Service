@@ -1,0 +1,58 @@
+Terms of Service (ToS) for Custom Discord Bot Development and Hosting
+Effective Date: July 18th, 2025
+Amended: August 19th, 2025
+Provided by: Madison Beal (operating as madsbx)
+
+1. Introduction
+These Terms of Service (“Terms”) govern your use of the Discord bots and related services (“Services”) provided by Madison Beal (operating as madsbx). By commissioning, subscribing to, or otherwise using the Services, you agree to these Terms. If you do not agree, you must not use the Services.
+
+2. Scope of Services
+I create and host custom Discord bots designed for specific servers and communities.
+Services include but are not limited to: server utilities (moderation tools, auto-roles, welcome messages), interactive features (games, levelling systems, gacha tracking), and custom feature development as agreed.
+Bots are hosted via GitHub, deployed via Railway, and supported with PostgreSQL databases.
+
+3. Payments & Fees
+Subscription Fees: Monthly subscription fees are based on server member count. Fees cover hosting, network/CPU usage, and database maintenance.
+Payment Methods: All payments must be processed through PayPal Goods & Services. Tips are optional via Ko-Fi.
+Taxes: All prices are subject to 15% Harmonized Sales Tax (HST) under New Brunswick law due to pricing structures. 
+Fee Adjustments: If your server size increases or hosting usage exceeds the original agreement, I reserve the right to adjust fees with 30 days’ written notice.
+Non-Payment: Failure to pay may result in suspension or termination of bot services.
+
+4. Client Responsibilities
+You agree not to use the Services for any illegal, malicious, fraudulent, or harassing activities.
+You agree to comply with Discord’s Terms of Service and Community Guidelines.
+You are responsible for moderating the conduct of your server members when interacting with the bot.
+You may not sell or redistribute the bot or its code without my prior written consent.
+
+5. Termination of Services
+Immediate Termination: I reserve the right to terminate Services immediately without refund if bots are used for prohibited or illegal activity.
+Voluntary Termination: Either party may cancel the Service at any time. If I cancel without cause, I will provide at least 60 days’ notice. 
+Cancellation Notice Period: You must give at least 7 days notice (including weekends) in advance of your expected billing date for termination of services.
+Refunds: Refunds will not be issued for partial months or terminated contracts unless required by law.
+
+6. Service Availability & Limitations
+Services are provided on an “as is” and “as available” basis. I do not guarantee uptime, performance, or feature permanence.
+Bot performance may be affected by third-party services (Discord API, Railway, PostgreSQL). I am not responsible for outages beyond my control.
+Feature requests made by you for your bot will be considered but not guaranteed. If I consider it outside of my capability, I reserve the right to decline the feature.
+
+7. Intellectual Property
+All bots are copyrighted works owned by Madison Beal (madsbx) unless otherwise stated.
+You are granted an exclusive, non-transferable license to use the bot in your server. The bot must only be used for your server unless explicit permission is requested and granted in writing.
+You may not reverse engineer, modify, resell, or redistribute the bot’s code.
+Bots are licensed under Creative Commons BY-NC-ND 4.0. This license prohibits commercial resale or redistribution and modification of my work without explicit permission.
+
+8. Liability
+I am not liable for damages resulting from bot downtime, data loss, misuse by server members, or security incidents outside of my control.
+To the maximum extent permitted by law, my liability is limited to the total amount paid for Services in the past 30 days.
+
+9. Amendments
+These Terms may be updated at any time. Clients will be notified of significant changes at least 30 days in advance.
+Continued use of the Services constitutes acceptance of the updated Terms.
+
+10. Governing Law
+These Terms are governed by Federal laws in Canada and New Brunswick Provincial law where applicable. Any disputes will be resolved under Canadian law.
+
+11. Contact Information
+For questions or concerns regarding these Terms, you may contact me:
+Email: paranoidgoose.bx@gmail.com
+Discord: @paranoidgoose
