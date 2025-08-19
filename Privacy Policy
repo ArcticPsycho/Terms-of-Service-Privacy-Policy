@@ -1,0 +1,55 @@
+Privacy Policy for Custom Discord Bot Development and Hosting
+Effective Date: July 18th, 2025
+Amended: August 19th, 2025
+Provided by: Madison Beal (operating as madsbx)
+
+1. Introduction
+This Privacy Policy describes how I collect, store, use, and protect information when you use my custom Discord bots and related services (“Services”). By using these Services, you consent to the practices outlined below.
+
+2. Information Collected
+Server Data: Server IDs, channel IDs, role IDs, and bot configuration data.
+User Data: Discord user IDs, usernames, and any information voluntarily provided through bot commands (e.g., levelling data, gacha rolls, game stats).
+Payment Data: I do not process payments directly. Payment information is handled by PayPal and Ko-Fi. I do not have access to your credit card, banking, or PayPal login details.
+Technical Data: Logs related to bot performance and usage (errors, command usage frequency, uptime data).
+
+3. How Information is Used
+To operate and improve bot features.
+To provide server-specific configurations and save user preferences.
+To maintain performance, fix bugs, and ensure security.
+To process payments (via PayPal/Ko-Fi).
+To comply with legal obligations when required.
+
+4. Data Sharing
+I do not sell, trade, or rent personal information. Data is only shared in the following cases:
+With PayPal and Ko-Fi (for payment processing).
+With Railway and PostgreSQL (for hosting and database functions).
+With law enforcement authorities, if required by law or if Services are used for illegal activity.
+
+5. Data Retention
+Data is stored only as long as it is needed for the bot’s functionality.
+Server owners may request deletion of all stored data at any time by contacting me.
+If Services are terminated, all related data will be deleted within 60 days, unless legal obligations require retention.
+
+6. Data Security
+Databases are secured with authentication and encryption where supported by Railway/PostgreSQL.
+Access to personal information is restricted to me only.
+While I take reasonable steps to protect data, no system is 100% secure. Clients use the Services at their own risk.
+
+7. Children’s Privacy
+My Services are intended for use in Discord servers. I do not knowingly collect or store personal information of individuals under the age of 13 (or the minimum age in your jurisdiction).
+
+8. User Rights
+Depending on your jurisdiction, you may have the right to:
+Access the data stored about you.
+Request corrections or deletions of your data.
+Withdraw consent for data storage at any time.
+File a complaint with a data protection authority.
+Requests can be made by contacting me directly (see Section 10).
+
+9. Changes to this Privacy Policy
+This Privacy Policy may be updated from time to time. Clients will be notified of major changes at least 30 days in advance. Continued use of the Services indicates acceptance of the updated policy.
+
+10. Contact Information
+For questions, concerns, or data deletion requests, contact:
+Email: paranoidgoose.bx@gmail.com
+Discord: @paranoidgoose
